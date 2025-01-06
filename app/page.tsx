@@ -1,4 +1,4 @@
-import LocationPicker from "@/components/ui/location-picker";
+import LocationPicker from "@/components/location-picker";
 
 export default function Home() {
   return (
